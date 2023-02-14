@@ -21,12 +21,3 @@ Hello, There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHein
 ![](https://img.shields.io/badge/Tools-RollUpJS-informational?style=flat&logo=rollup.js&logoColor=white&color=008bff)
 ![](https://img.shields.io/badge/Tools-Storybook-informational?style=flat&logo=Storybook&logoColor=white&color=008bff)
 ![](https://img.shields.io/badge/Other-Figma-informational?style=flat&logo=Figma&logoColor=white&color=757575)
-
-<h2 align='center'>🚀 Projects & Statistics </h2>
-<a href="https://github.com/AnthonyCL2b/AnthonyCL2b">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyCL2b&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=c96f6f&bg_color=121212&langs_count=4" />
-</a>
-
-<a href="https://github.com/AnthonyCL2b/KaliLinux_Env">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnthonyCL2b&repo=KaliLinux_Env&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=121212&langs" />
-</a>
