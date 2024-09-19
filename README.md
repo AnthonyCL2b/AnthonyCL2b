@@ -12,8 +12,6 @@ Hello, There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHein
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=263745)
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=Apple&logoColor=white&color=263745)
-![](https://img.shields.io/badge/Code-ReactJS-informational?style=flat&logo=React&logoColor=white&color=0b68b5)
-![](https://img.shields.io/badge/Code-NestJS-informational?style=flat&logo=NestJS&logoColor=white&color=0b68b5)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=0b68b5)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=Cplusplus&logoColor=white&color=0b68b5)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=Docker&logoColor=white&color=008bff)
