@@ -4,10 +4,6 @@
 Hello, There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h1>
 
-<p align='middle'> Hi, my name is Anthony, I'm from France 🇫🇷 and I'm currently a computer science student 🖥 !
-<p align='middle'> You will find in my repositories some personal projects that I find nice to put forward. So you will find <b>WEB</b> or <b>Mobile</b> applications projects, <b>Python</b>, <b>C++</b> or <b>Rust</b> projects but also some <b>DevOps</b> projects. I'm also passionate about <b>Cybersecurity</b> and <b>Blockchain</b> technologies so may find projects in these fields too! I hope you will enjoy it !
-<p align='middle'><b>PS</b>: Keep Calm and eat croissants 🥐🇫🇷!
-
 <h2 align='center'>🛠 Technologies & Tools</h2>
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=263745)
